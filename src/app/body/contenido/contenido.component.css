@@ -1,0 +1,12 @@
+/* Desarrollamos estilos en el div container para centrar la imagen y el contenedor */
+.container{
+  height: 100%;
+  width: 100%;
+  margin-top: 60px ;
+  align-items: center;
+}
+
+.img{
+    text-align: center;
+    margin-top: 150px;
+}
